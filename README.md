@@ -1,2 +1,2 @@
 # Pong_Game
-A basic Pong Game in Java, for mini projects, etc.
+A basic Pong Game in Java, with an AI opponent
